@@ -6,6 +6,11 @@ Making improvement on web accessibility and HTML semantics for the Horiseon's ho
 ## Installation
 Uploaded 2 contents from starter code file, the index.html and assets folder to deployed webserver. The assets files contains images for the website to use and the style.css file.
 
+## Link
+* [Github content of Horiseon's hompage website](https://github.com/JeanSuw/code-refactor-business)
+* [Horiseon's homepage](https://jeansuw.github.io/code-refactor-business/)
+
+
 ## Useage
 When the application is deployed, the Horiseon's home page as shown in the website should be similar to the screenshot below.
 
